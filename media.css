@@ -1,0 +1,44 @@
+@media only screen and (max-width: 1450px) {
+    li{
+        position: relative;
+        left: 20px;
+    }
+  }
+@media only screen and (max-width: 1280px) {
+  .card{
+    margin-top:-15%;
+  }
+  ul{
+    flex-direction: column;
+  }
+   .main-container,.dynamic{
+    flex-direction: column;
+   }
+   .small{
+    font-size: 20px;
+   }
+   .division{
+    margin-left:10px;
+   }
+   .divide{
+   margin: 5% 0% 5% 0%;
+   }
+   .main-box{
+    padding: 0px 0px 20px 0px;
+   }
+   .header{
+    font-size: 20px;
+   }
+   .card-box{
+    flex-direction: column;
+   }
+   .Fitness{
+    flex-direction: column;
+   }
+   .club{
+    flex-direction: column;
+   }
+   .photo img{
+    width: 100%;
+   }
+  }
